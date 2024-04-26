@@ -13,3 +13,7 @@ For more on shared GitHub workflows, see [the GitHub Documentation](https://docs
 ## Usage
 
 To use one of the provided workflows in this repo, you need to create a new workflow in the repo with a job that uses the appropriate workflow defined here. Note that we intend to add [Starter Workflows](https://docs.github.com/en/actions/using-workflows/creating-starter-workflows-for-your-organization) to assist with this process.
+
+## Credit
+
+We would like to thank our colleagues at [Mekom Solutions](https://mekomsolutions.com/) for the idea
